@@ -1,1 +1,1 @@
-# agrando-trip-countdown
+# Vanila js app
